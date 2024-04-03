@@ -12,8 +12,8 @@ Run the synapse_carbon_extractor by providng the workspace id as parameter
 ts-node-cwd.cmd .\synapse_carbon_extractor.ts --workspaceid=<workspaceid_here>
 
 sample output:
-
-workspace_id provided is  da7cc61c-bba4-4efa-aef5-04ab14e8358d
+```
+workspace_id provided is XXXXXXXXXXXXXXXXXXXXXXX
 Results for query
 {
   name: 'PrimaryResult',
@@ -44,3 +44,4 @@ Results for query
     ]
   ]
 }
+```
